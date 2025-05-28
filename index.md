@@ -3,7 +3,7 @@ layout: home
 title: Sumit Katuwal
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "One day i will change the world."
 
 quick_facts:
   - "🎓 Senior, Software Engineering @ Morgan State University"
