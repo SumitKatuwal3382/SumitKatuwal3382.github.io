@@ -27,12 +27,12 @@ about:
       description: I love playing mobile and console games like FIFA, 2K, MADDEN, PUBG.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
+    - image: /assets/images/IMG_0017.jpeg
+      caption: Rafting in Nantahala.
+    - image: /assets/images/IMG_3859.jpeg
+      caption: Colorado Snow 
+    - image: /assets/images/IMG_9658.jpeg
       caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/IMG_1177.jpeg
+      caption: First Ziplining experience.
 ---
