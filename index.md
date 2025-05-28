@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/sumitkatuwal723/
-image: /assets/images/IMG_0049.jpeg
+image: /assets/images/IMG_9658.jpeg
 ---
