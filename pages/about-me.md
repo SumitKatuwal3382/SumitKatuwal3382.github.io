@@ -13,13 +13,13 @@ about:
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy playing soccer, hanging out with friends, travelling new places doing new projects.
 
   hobbies:
-    - icon: 🎺
+    - icon: ⚽
       title: Playing soccer
       description: I’ve been playing soccer since middle school and pretty much always connected to it.
-    - icon: 🤖
+    - icon: 🌏
       title: Adventures
       description: I enjoy travelling and exploring new places.
     - icon: 🕹️
