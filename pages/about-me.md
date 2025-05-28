@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Sumit Katuwal
   role: Senior, CS @ MSU
-  image: /assets/images/me.jpg
+  image: /assets/images/IMG_9658.jpeg
   linkedin: https://www.linkedin.com/in/sumitkatuwal723/
   bio: |
     I’m currently a Senior studying Computer Science at Morgan State University in Baltimore, Mayland. I expect to graduate in 2026.
