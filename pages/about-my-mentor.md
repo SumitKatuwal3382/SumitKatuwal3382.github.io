@@ -21,6 +21,6 @@ faculty_mentor:
   bio: |
     Dr. Edward Robinson is professor of practice at School of Global Journalism and Communication at Morgan State University.
     
-    A passionate professor of practice at School of Global Journalism and communication.
+    Edward G. Robinson III is an award-winning writer, editor and entrepreneur. He was a staff writer for the Raleigh News and Observer from Jan. 2004 to March 2012. He covered ACC college sports, serving as the Duke football beat writer, men’s basketball general assignment reporter and women’s basketball beat writer. He covered bowl games, NCAA Final Fours and an array of sports events over a 12-year career as a sports journalist. A native of Washington, D.C., he’s also worked at The Pittsburgh Post-Gazette, The Washington Post and Washington Afro-American. He received his undergraduate journalism degree from American University and graduate nonfiction degree from Johns Hopkins University. He is currently writing a book with N.C. Central University coach LeVelle Moton, which is scheduled for release August 2014.
 
 ---
