@@ -5,11 +5,11 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Daniel Owolabi
-  title: Maters Student, Advanced Computinh
+  title: Masters Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Daniel Owolabi is a masters student with the major in Advanced Computing at Morgan State University.
     
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
@@ -19,7 +19,7 @@ faculty_mentor:
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Edward Robinson is professor of practice at School of Global Journalism and Communication at Morgan State University.
     
     A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
 
