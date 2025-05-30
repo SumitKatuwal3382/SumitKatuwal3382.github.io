@@ -11,7 +11,7 @@ graduate_mentor:
   bio: |
     Daniel Owolabi is a masters student with the major in Advanced Computing at Morgan State University.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Beyond the lab, Daniel has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
 faculty_mentor:
   name: Dr. Edward Robinson
