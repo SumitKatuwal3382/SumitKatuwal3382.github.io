@@ -21,6 +21,6 @@ faculty_mentor:
   bio: |
     Dr. Edward Robinson is professor of practice at School of Global Journalism and Communication at Morgan State University.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    A passionate professor of practice at School of Global Journalism and communication.
 
 ---
