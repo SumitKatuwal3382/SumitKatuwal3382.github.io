@@ -34,9 +34,9 @@ final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d
 
 grad_mentor:
   name: Daniel Owolabi
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  linkedin: https://www.linkedin.com/in/owolabi-daniel-olusayo/
 
 faculty_mentor:
   name: Dr. Edward Robinson
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  linkedin: https://www.linkedin.com/in/edward-g-robinson-iii-308bb568/
 ---
