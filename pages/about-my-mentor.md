@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Daniel Owolabi
   title: Masters Student, Advanced Computing
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/Dainel.png
   website: https://gradmentor.example.com
   bio: |
     Daniel Owolabi is a masters student with the major in Advanced Computing at Morgan State University.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Edward Robinson
   title: Professor of practice, Morgan State University
-  image: /assets/images/faculty-mentor.jpg
+  image: /assets/images/Robinson.png
   website: https://facultymentor.example.com
   bio: |
     Dr. Edward Robinson is professor of practice at School of Global Journalism and Communication at Morgan State University.
